@@ -12,13 +12,13 @@ github_repo: "https://github.com/nilmiao/nilmiao.github.io.git" # you code repos
 # Sidebar settings 
 sidebar: true                           # whether or not using Sidebar.侧边栏
 sidebar-about-description: "没有什么是努力不能实现的!"
-sidebar-avatar: /img/avatar-m.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
+sidebar-avatar: /img/avatar_m.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
 
 # SNS settings
-RSS: false
-weibo_username:     acemiaoer # 社交帐号
+# RSS: false
+# weibo_username:     acemiaoer # 社交帐号
 # zhihu_username:     
 #github_username:    qiubaiying
 #facebook_username:  baiying.qiu.7
