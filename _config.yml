@@ -14,7 +14,7 @@ sidebar: true                           # whether or not using Sidebar.侧边栏
 sidebar-about-description: "没有什么是努力不能实现的!"
 sidebar-avatar: /img/avatar_m.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 sidebar-about-description: "如果你收益,请我喝杯咖啡吧!"
-sidebar-avatar:/img/money.jpg
+sidebar-avatar: /img/money.jpg
 
 
 # SNS settings
